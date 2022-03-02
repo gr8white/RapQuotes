@@ -1,0 +1,88 @@
+[
+    {
+        "artist": "Kendrick Lamar",
+        "base": "Look at me, I’m a loser, I’m a winner, I’m good, I’m bad. I’m a sinner, I’m a killer. What I’m doing, I’m saying that I’m human.",
+        "headshot": "kendrick_base",
+        "actionShot": "kendrick_action",
+        "quotes": [
+            {
+                "quote": "The sky is falling, the wind is calling,\nStand for something, or die in the morning.",
+                "song": "HiiPower",
+                "album": "Section .80",
+                "theme": "#B8A169",
+                "accent": "#000000"
+            },
+            {
+                "quote": "I hope you come back, and learn from your mistakes.\nCome back a man, tell your story to these black and brown kids in Compton.",
+                "song": "Sing About Me, I'm Dying Of Thirst",
+                "album": "good kid, m.A.A.d city",
+                "theme": "#45627E",
+                "accent": "#F5F7F8"
+            },
+            {
+                "quote": "The ghost of Mandela, hope my flows they propel it,\nLet these words be your earth and moon\nYou consume every message\nAs I lead this army make room for mistakes and depression.",
+                "song": "Mortal Man",
+                "album": "To Pimp A Butterfly",
+                "theme": "#D3D3D3",
+                "accent": "#454545"
+            },
+            {
+                "quote": "Asked me what am I doing, he said 'taking my time'\nMeditation is a must, it don't hurt if you try\nSee you thinking too much plus you too full of yourself\nWorried about your career, ever think of your health?",
+                "song": "Untitled 03 | 05.28.2013.",
+                "album": "Untitled, Unmastered",
+                "theme": "#36350D",
+                "accent": "#F0F0EC"
+            },
+            {
+                "quote": "I'm willin' to die for this shit\nI done cried for this shit, might take a life for this shit\nPut the Bible down and go eye for an eye for this shit\nD.O.T. my enemy, won't catch a vibe for this shit, ayy",
+                "song": "Element",
+                "album": "Damn.",
+                "theme": "#4D2D35",
+                "accent": "#E83220"
+            },
+        ]
+    },
+    {
+        "artist": "Kanye West",
+        "base": "I already told you what I think I am... A GOD!",
+        "headshot": "kanye_base",
+        "actionShot": "kanye_action",
+        "quotes": [
+            {
+                "quote": "Drug dealer buy Jordans, crackhead buy crack\nAnd a white man get paid off of all of that",
+                "song": "All Falls Down",
+                "album": "College Dropout",
+                "theme": "#501214",
+                "accent": "#F2B047"
+            },
+            {
+                "quote": "'Fore the day I die, I'mma touch the sky\nGotta testify, come up in the spot looking extra fly\n'Fore the day I die, I'mma touch the sky",
+                "song": "Touch The Sky",
+                "album": "Late Registration",
+                "theme": "#121446",
+                "accent": "#E1D752"
+            },
+            {
+                "quote": "Look at the valedictorian scared of the future\nWhile I hop in the Delorean\nScared-to-face-the-world complacent career student\nSome people graduate, but we still stupid\nThey tell you read this, eat this, don't look around\nJust peep this, preach us, teach us, Jesus\nOkay, look up now, they done stole your streetness\nAfter all of that, you receive this",
+                "song": "Good Morning",
+                "album": "Graduation",
+                "theme": "#663B83",
+                "accent": "#D03C72"
+            },
+            {
+                "quote": "Happen to be just like moments passin'\nIn front of me so I hopped in the cab and\nI paid my fare. See, I know my destination\nBut I'm just not there",
+                "song": "RoboCop",
+                "album": "808's and Heartbreaks",
+                "theme": "#D4DCDB",
+                "accent": "#E23E59"
+            },
+            {
+                "quote": "Address me as 'Your Highness'\nHigh as United, 30,000 feet up and you are not invited\nNiggas be writin’ bullshit like they gotta work\nNiggas going through real shit, man they outta work\nThat's why I never God damn dance track, gotta hurt\nThat's why I rather spit something that gotta perch",
+                "song": "So Appalled",
+                "album": "My Beautiful Dark Twisted Fantasy",
+                "theme": "#DB3E4D",
+                "accent": "#F5C751"
+            },
+        ]
+    }
+]
